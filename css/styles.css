@@ -1,0 +1,146 @@
+
+body {
+  background-color: #7fa998;
+  margin: 0;
+  width: 100%;
+  text-align: center;
+
+}
+
+a {
+  margin: 10px 20px;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 100px;
+  font-weight: lighter;
+  color: #deb887;
+}
+
+h2 {
+  font-family: 'Gayathri', sans-serif;
+  font-size: 1.70rem;
+  margin: 0;
+  color: #deb887;
+  font-weight: lighter;
+}
+
+h3 {
+  color: #f4a460;
+  padding-top: 25px;
+
+}
+
+h4 {
+  color: #f4a460;
+  text-align: left;
+  margin: 0px;
+}
+
+h5 {
+  color: #f4a460;
+  padding-top: 25px;
+  font-size: 20px;
+  margin: auto;
+}
+
+footer-link {
+  color: #f4a460;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: #7fa998;
+  border-width: 8px;
+  width: 5%;
+
+}
+.computer {
+  width: 25%;
+  float: left;
+  padding-right: 30px;
+}
+
+.chilies {
+  width: 25%;
+  float: right;
+  padding-left: 30px;
+}
+
+.profile {
+  width: 50%;
+  margin: auto;
+  padding-bottom: 50px;
+}
+
+.topbox{
+  background-color: #7fa998;
+  position: relative;
+  padding-top: 100px;
+  width: 50%;
+  margin: auto;
+
+}
+
+.middlebox{
+  background-color: white;
+  text-align: center;
+  padding: 25px;
+  line-height: 2;
+}
+
+.bottombox{
+  background-color: #7fa998;
+  font-size: .75rem;
+  color: white;
+  margin: 20px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 1%;
+  top: 335px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 1%;
+  top: 100px;
+}
+
+.avi {
+  position: relative;
+  width: 25%;
+}
+
+.skill-row {
+  position: relative;
+  width: 50%;
+  margin: 100px auto 100px auto;
+
+
+
+}
+
+.programming {
+  text-align: left;
+  line-height: 1.5;
+}
+
+.chili {
+  text-align: left;
+  line-height: 1.5;
+}
+
+.contact-me {
+  padding-top: 5px;
+  width: 50%;
+  margin: auto;
+
+}
+
+.copyright {
+  font-size: .75rem;
+}
